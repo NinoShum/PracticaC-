@@ -11,7 +11,7 @@ Console.WriteLine("Число равно" +" " + number);
 int sqrNumber = number * number;
 
 // формула, но применяется к вещ.цифрам (надо выбрать double, а не int)
-sqrNumber1 = Math.Pow (number, 2)
+//sqrNumber1 = Math.Pow (number, 2)
 
 //вывод результата
 Console.WriteLine($"Квадрат числа = {sqrNumber}");
